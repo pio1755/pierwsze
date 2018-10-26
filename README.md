@@ -1,1 +1,1 @@
-# pierwszy tekst w readme
+# pierwszy tekst w readme xdd
